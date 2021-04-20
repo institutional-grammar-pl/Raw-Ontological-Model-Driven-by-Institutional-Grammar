@@ -15,6 +15,6 @@
 
 
 ### Software
-* [Institutional Grammar Annotator](https://github.com/institutional-grammar-pl/policydemic-annotator) * [Evaluation]()
+* [Institutional Grammar Annotator](https://github.com/institutional-grammar-pl/policydemic-annotator)  [Evaluation]()
 
 * [IG-driven Ontology Builder](https://github.com/institutional-grammar-pl/ig-ontology-builder)

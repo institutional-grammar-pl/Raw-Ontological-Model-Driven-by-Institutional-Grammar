@@ -4,8 +4,8 @@
 
 ### Materials
 
-* [Paper]()
-* [Supplement]()
+* [Paper](https://github.com/institutional-grammar-pl/Raw-Ontological-Model-Driven-by-Institutional-Grammar/blob/main/Raw%20OntologicalModel%20Driven%20by%20Institutional%20Grammar%20-%20paper.pdf)
+* [Supplement](https://github.com/institutional-grammar-pl/Raw-Ontological-Model-Driven-by-Institutional-Grammar/blob/main/Raw%20OntologicalModel%20Driven%20by%20Institutional%20Grammar%20-%20supplement.pdf)
 
 ### Data
 

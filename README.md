@@ -15,6 +15,7 @@
 
 
 ### Software
-* [Institutional Grammar Annotator](https://github.com/institutional-grammar-pl/policydemic-annotator)  [Evaluation Data](https://github.com/institutional-grammar-pl/policydemic-annotator/tree/tagger_evaluation/data) [Evaluation Code](https://github.com/institutional-grammar-pl/policydemic-annotator/tree/tagger_evaluation/notebook)
+* [Institutional Grammar Annotator](https://github.com/institutional-grammar-pl/policydemic-annotator) 
+*  *  [Evaluation Data](https://github.com/institutional-grammar-pl/policydemic-annotator/tree/tagger_evaluation/data) [Evaluation Code](https://github.com/institutional-grammar-pl/policydemic-annotator/tree/tagger_evaluation/notebook)
 
 * [IG-driven Ontology Builder](https://github.com/institutional-grammar-pl/ig-ontology-builder)

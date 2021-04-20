@@ -2,6 +2,11 @@
 
 ## Resources
 
+### Materials
+
+* [Paper]()
+* [Supplement]()
+
 ### Data
 
 *  [Dataset](https://github.com/institutional-grammar-pl/Raw-Ontological-Model-Driven-by-Institutional-Grammar/blob/main/COVID-19_Emergency_Paid_Sick_Leave_IG_dataset.xlsx)
